@@ -1,0 +1,424 @@
+0 HEAD
+1 SOUR SLEKTSTRE_EKSEMPEL
+2 NAME Eksempelfil for Slektstre
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+1 NOTE Alle personer i denne filen er oppdiktet.
+0 @I1@ INDI
+1 NAME Ingrid Marie /Haugen/
+1 SEX F
+1 BIRT
+2 DATE 14 MAR 1952
+2 PLAC Røros, Trøndelag
+1 CHR
+2 DATE 20 APR 1952
+2 PLAC Røros kirke
+2 SOUR @S1@
+3 PAGE Ministerialbok for Røros, døpte 1952
+1 OCCU Lærer
+1 NOTE Fiktiv eksempelperson for å vise appen.
+1 FAMS @F10@
+1 FAMC @F1@
+0 @I2@ INDI
+1 NAME Jon Olav /Haugen/
+1 SEX M
+1 BIRT
+2 DATE 2 JUN 1949
+2 PLAC Røros, Trøndelag
+1 FAMC @F1@
+0 @I3@ INDI
+1 NAME Astrid /Haugen Lie/
+1 SEX F
+1 BIRT
+2 DATE 30 OCT 1955
+2 PLAC Røros, Trøndelag
+1 FAMS @F13@
+1 FAMC @F1@
+0 @I4@ INDI
+1 NAME Ola /Haugen/
+1 SEX M
+1 BIRT
+2 DATE 8 JAN 1924
+2 PLAC Røros, Trøndelag
+1 DEAT
+2 DATE 19 NOV 2003
+2 PLAC Røros, Trøndelag
+1 BURI
+2 PLAC Røros, Trøndelag
+1 OCCU Gruvearbeider
+1 FAMS @F1@
+1 FAMC @F2@
+0 @I5@ INDI
+1 NAME Kari /Bakken Haugen/
+1 SEX F
+1 BIRT
+2 DATE 21 JUL 1927
+2 PLAC Holtålen, Trøndelag
+1 DEAT
+2 DATE 3 FEB 2015
+2 PLAC Trondheim
+1 BURI
+2 PLAC Trondheim
+1 FAMS @F1@
+1 FAMC @F3@
+0 @I6@ INDI
+1 NAME Johan /Haugen/
+1 SEX M
+1 BIRT
+2 DATE ABT 1890
+2 PLAC Røros, Trøndelag
+1 DEAT
+2 DATE 12 APR 1961
+2 PLAC Røros, Trøndelag
+1 BURI
+2 PLAC Røros, Trøndelag
+1 FAMS @F2@
+1 FAMC @F4@
+0 @I7@ INDI
+1 NAME Marit /Olsdatter Haugen/
+1 SEX F
+1 BIRT
+2 DATE 5 SEP 1893
+2 PLAC Os i Østerdalen
+1 DEAT
+2 DATE 1 DEC 1970
+2 PLAC Røros, Trøndelag
+1 BURI
+2 PLAC Røros, Trøndelag
+1 FAMS @F2@
+1 FAMC @F5@
+0 @I8@ INDI
+1 NAME Peder /Bakken/
+1 SEX M
+1 BIRT
+2 DATE 17 MAR 1895
+2 PLAC Holtålen, Trøndelag
+1 DEAT
+2 DATE 9 AUG 1958
+2 PLAC Holtålen, Trøndelag
+1 BURI
+2 PLAC Holtålen, Trøndelag
+1 EMIG
+2 DATE 1912
+2 PLAC Minnesota, USA
+2 NOTE Kom tilbake til Norge i 1919.
+1 FAMS @F3@
+1 FAMC @F6@
+0 @I9@ INDI
+1 NAME Gjertrud /Ås Bakken/
+1 SEX F
+1 BIRT
+2 DATE 11 NOV 1898
+2 PLAC Ålen, Trøndelag
+1 DEAT
+2 DATE 28 JAN 1980
+2 PLAC Holtålen, Trøndelag
+1 BURI
+2 PLAC Holtålen, Trøndelag
+1 FAMS @F3@
+1 FAMC @F7@
+0 @I10@ INDI
+1 NAME Ole /Haugen/
+1 SEX M
+1 BIRT
+2 DATE 1858
+2 PLAC Røros
+1 DEAT
+2 DATE 1931
+2 PLAC Røros
+1 BURI
+2 PLAC Røros
+1 FAMS @F4@
+1 FAMC @F8@
+0 @I11@ INDI
+1 NAME Berit /Jonsdatter/
+1 SEX F
+1 BIRT
+2 DATE ABT 1861
+2 PLAC Glåmos
+1 DEAT
+2 DATE BEF 1925
+2 PLAC Røros
+1 BURI
+2 PLAC Røros
+1 FAMS @F4@
+1 FAMC @F9@
+0 @I12@ INDI
+1 NAME Ola /Olsen Sæter/
+1 SEX M
+1 BIRT
+2 DATE 3 FEB 1862
+2 PLAC Os i Østerdalen
+1 DEAT
+2 DATE 1940
+2 PLAC Os i Østerdalen
+1 BURI
+2 PLAC Os i Østerdalen
+1 FAMS @F5@
+0 @I13@ INDI
+1 NAME Ingeborg /Pedersdatter/
+1 SEX F
+1 BIRT
+2 DATE 1866
+2 PLAC Tolga
+1 DEAT
+2 DATE 1944
+2 PLAC Os i Østerdalen
+1 BURI
+2 PLAC Os i Østerdalen
+1 FAMS @F5@
+0 @I14@ INDI
+1 NAME Hans /Bakken/
+1 SEX M
+1 BIRT
+2 DATE 24 DEC 1860
+2 PLAC Holtålen
+1 DEAT
+2 DATE 1929
+2 PLAC Holtålen
+1 BURI
+2 PLAC Holtålen
+1 NOTE Gardbruker på Bakken. Se folketellingen 1900:
+2 CONT https://www.digitalarkivet.no/
+1 FAMS @F6@
+0 @I15@ INDI
+1 NAME Sigrid /Ellefsdatter/
+1 SEX F
+1 BIRT
+2 DATE 1864
+2 PLAC Singsås
+1 DEAT
+2 DATE 1938
+2 PLAC Holtålen
+1 BURI
+2 PLAC Holtålen
+1 FAMS @F6@
+0 @I16@ INDI
+1 NAME Anders /Ås/
+1 SEX M
+1 BIRT
+2 DATE BET 1865 AND 1868
+2 PLAC Ålen
+1 DEAT
+2 DATE 1946
+2 PLAC Ålen
+1 BURI
+2 PLAC Ålen
+1 FAMS @F7@
+0 @I17@ INDI
+1 NAME Guri /Kjeldsdatter Ås/
+1 SEX F
+1 BIRT
+2 DATE 1870
+2 PLAC Ålen
+1 DEAT
+2 DATE 1951
+2 PLAC Ålen
+1 BURI
+2 PLAC Ålen
+1 FAMS @F7@
+0 @I18@ INDI
+1 NAME Jon /Haugen/
+1 SEX M
+1 BIRT
+2 DATE 1825
+2 PLAC Røros
+1 DEAT
+2 DATE 1897
+2 PLAC Røros
+1 BURI
+2 PLAC Røros
+1 FAMS @F8@
+0 @I19@ INDI
+1 NAME Kirsti /Hansdatter/
+1 SEX F
+1 BIRT
+2 DATE 1829
+2 PLAC Røros
+1 DEAT
+2 DATE 1902
+2 PLAC Røros
+1 BURI
+2 PLAC Røros
+1 FAMS @F8@
+0 @I20@ INDI
+1 NAME Jon /Eriksen Glåmo/
+1 SEX M
+1 BIRT
+2 DATE 1830
+2 PLAC Glåmos
+1 DEAT
+2 DATE 1880
+2 PLAC Glåmos
+1 BURI
+2 PLAC Glåmos
+1 FAMS @F9@
+0 @I21@ INDI
+1 NAME Per Arne /Moen/
+1 SEX M
+1 BIRT
+2 DATE 9 MAY 1950
+2 PLAC Trondheim
+1 FAMS @F10@
+0 @I22@ INDI
+1 NAME Erik /Moen/
+1 SEX M
+1 BIRT
+2 DATE 18 AUG 1975
+2 PLAC Trondheim
+1 FAMS @F11@
+1 FAMC @F10@
+0 @I23@ INDI
+1 NAME Silje /Moen Strand/
+1 SEX F
+1 BIRT
+2 DATE 2 APR 1978
+2 PLAC Trondheim
+1 FAMS @F12@
+1 FAMC @F10@
+0 @I24@ INDI
+1 NAME Lene /Vik/
+1 SEX F
+1 BIRT
+2 DATE 1976
+2 PLAC Steinkjer
+1 FAMS @F11@
+0 @I25@ INDI
+1 NAME Sander /Moen/
+1 SEX M
+1 BIRT
+2 DATE 2004
+2 PLAC Trondheim
+1 FAMC @F11@
+0 @I26@ INDI
+1 NAME Ida /Moen/
+1 SEX F
+1 BIRT
+2 DATE 2007
+2 PLAC Trondheim
+1 FAMC @F11@
+0 @I27@ INDI
+1 NAME Thomas /Strand/
+1 SEX M
+1 BIRT
+2 DATE 1977
+2 PLAC Levanger
+1 FAMS @F12@
+0 @I28@ INDI
+1 NAME Emma /Strand/
+1 SEX F
+1 BIRT
+2 DATE 2010
+2 PLAC Levanger
+1 FAMC @F12@
+0 @I29@ INDI
+1 NAME Nils /Lie/
+1 SEX M
+1 BIRT
+2 DATE 1953
+2 PLAC Oppdal
+1 FAMS @F13@
+0 @I30@ INDI
+1 NAME Marte /Lie/
+1 SEX F
+1 BIRT
+2 DATE 1981
+2 PLAC Oppdal
+1 FAMC @F13@
+0 @F1@ FAM
+1 HUSB @I4@
+1 WIFE @I5@
+1 MARR
+2 DATE 24 JUN 1948
+2 PLAC Røros kirke
+1 CHIL @I2@
+1 CHIL @I1@
+1 CHIL @I3@
+0 @F2@ FAM
+1 HUSB @I6@
+1 WIFE @I7@
+1 MARR
+2 DATE 1920
+2 PLAC Røros kirke
+1 CHIL @I4@
+0 @F3@ FAM
+1 HUSB @I8@
+1 WIFE @I9@
+1 MARR
+2 DATE 1922
+2 PLAC Holtålen kirke
+1 CHIL @I5@
+0 @F4@ FAM
+1 HUSB @I10@
+1 WIFE @I11@
+1 MARR
+2 DATE 1886
+2 PLAC Røros
+1 CHIL @I6@
+0 @F5@ FAM
+1 HUSB @I12@
+1 WIFE @I13@
+1 MARR
+2 DATE 1890
+2 PLAC Os
+1 CHIL @I7@
+0 @F6@ FAM
+1 HUSB @I14@
+1 WIFE @I15@
+1 MARR
+2 DATE 1889
+2 PLAC Holtålen
+1 CHIL @I8@
+0 @F7@ FAM
+1 HUSB @I16@
+1 WIFE @I17@
+1 MARR
+2 DATE 1895
+2 PLAC Ålen
+1 CHIL @I9@
+0 @F8@ FAM
+1 HUSB @I18@
+1 WIFE @I19@
+1 MARR
+2 DATE 1852
+2 PLAC Røros
+1 CHIL @I10@
+0 @F9@ FAM
+1 HUSB @I20@
+1 CHIL @I11@
+0 @F10@ FAM
+1 HUSB @I21@
+1 WIFE @I1@
+1 MARR
+2 DATE 12 JUL 1974
+2 PLAC Nidarosdomen, Trondheim
+1 CHIL @I22@
+1 CHIL @I23@
+0 @F11@ FAM
+1 HUSB @I22@
+1 WIFE @I24@
+1 MARR
+2 DATE 2003
+2 PLAC Trondheim
+1 CHIL @I25@
+1 CHIL @I26@
+0 @F12@ FAM
+1 HUSB @I27@
+1 WIFE @I23@
+1 MARR
+2 DATE 2008
+2 PLAC Levanger
+1 CHIL @I28@
+0 @F13@ FAM
+1 HUSB @I29@
+1 WIFE @I3@
+1 MARR
+2 DATE 1979
+2 PLAC Oppdal
+1 CHIL @I30@
+0 @S1@ SOUR
+1 TITL Ministerialbok for Røros (oppdiktet kilde)
+1 AUTH Eksempel
+0 TRLR

@@ -1,3 +1,4 @@
 .DS_Store
 *.ged
 *_ged
+!eksempel/eksempel.ged
