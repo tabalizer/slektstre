@@ -102,3 +102,11 @@ node test/test.js min-fil.ged      # tester også en ekte fil (tid og datoer som
 Nye versjoner publiseres med `git push` til `main`, og GitHub Pages oppdaterer siden automatisk. Når en iPad er på nett, henter appen den nye versjonen neste gang den åpnes.
 
 > Ikke legg ekte `.ged`-filer i repoet. `.gitignore` utelater dem, med unntak av den oppdiktede eksempelfilen.
+
+## Lisens
+
+[MIT](LICENSE) © 2026 Tor Andre Breivikås
+
+Du kan bruke, endre og dele koden fritt, også i andre prosjekter, så lenge lisensteksten og opphavsnavnet følger med. Programvaren leveres som den er, uten garantier.
+
+Lisensen gjelder koden, dokumentasjonen, skjermbildene og den oppdiktede eksempelfilen i repoet. Slektsfiler du åpner i appen, er dine egne og omfattes ikke av lisensen.
